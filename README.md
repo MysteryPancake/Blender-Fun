@@ -1,5 +1,5 @@
 # Blender Fun
-Blender project files and node experiments.
+Blender projects and node experiments.
 
 ## [Caustics](caustics.blend)
 [Inspired by Evan Wallace](https://medium.com/@evanwallace/rendering-realtime-caustics-in-webgl-2a99a29a0b2c), I made caustics from mesh distortion using geometry nodes.
