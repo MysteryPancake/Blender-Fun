@@ -8,4 +8,4 @@ Blender projects and node experiments.
 
 Involved the Raycast node and Refract from Vector Math (open image for more detail)
 
-<img src="images/causticnodes.png?raw=true" alt="Caustics demo">
+<img src="images/causticnodes.png?raw=true" alt="Caustics nodes">
