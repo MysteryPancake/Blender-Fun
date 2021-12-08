@@ -6,11 +6,11 @@ Blender projects and node experiments.
 
 [<img src="images/causticanim.gif?raw=true" width="480" alt="Caustics demo">](caustics.blend)
 
-Firstly, it uses a Raycast node to find where the light surface collides with the water surface ([thanks Erindale!](https://www.youtube.com/watch?v=ZCCQXoJoIK4))
+Firstly it uses a Raycast node to find where the light surface collides with the water surface ([thanks Erindale!](https://www.youtube.com/watch?v=ZCCQXoJoIK4))
 <br>
-The animation shows where Raycast moves depending on the ray length. It travels along the normal vector.
+The animation shows how Raycast moves depending on the ray length. It travels along the normal vector.
 
-Next, it uses Refract from Vector Math:
+Next it uses Refract from Vector Math:
 
 > For a given incident vector A, surface normal B and ratio of indices of refraction (IOR), Refract outputs the refraction vector R.
 
