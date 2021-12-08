@@ -6,6 +6,6 @@ Blender projects and node experiments.
 
 [<img src="images/causticanim.gif?raw=true" width="480" alt="Caustics demo">](caustics.blend)
 
-Involved the Raycast node and Refract from Vector Math (open image for more detail)
+I used the "Raycast" node and "Refract" from Vector Math (open image for more detail)
 
 <img src="images/causticnodes.png?raw=true" alt="Caustics nodes">
