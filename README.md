@@ -8,7 +8,7 @@ Blender projects and node experiments.
 
 Firstly, it uses a Raycast node to find where the light surface collides with the water surface ([thanks Erindale!](https://www.youtube.com/watch?v=ZCCQXoJoIK4))
 <br>
-The animation shows exactly how this works. It takes the position and travels along the normal until it hits something.
+The animation shows where Raycast moves depending on the chosen ray length. It travels along the normal of the light surface.
 
 Next, it uses Refract from Vector Math:
 
