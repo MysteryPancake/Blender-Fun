@@ -23,3 +23,9 @@ Because different materials have different IOR values, I created a custom IOR at
 When Raycast collides with the water surface, it reads the water's custom IOR attribute when performing the division above.
 
 <img src="images/causticnodes.png?raw=true" alt="Caustics nodes">
+
+## [Monkey Boom](monkeyboom.blend)
+
+Edge Split explosion technique I like using in Houdini.
+
+[<img src="images/monkeyanim.gif?raw=true" width="480" alt="Monkey demo">](monkeyboom.blend)
