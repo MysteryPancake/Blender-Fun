@@ -24,11 +24,11 @@ When Raycast collides with the water surface, it reads the water's custom IOR at
 
 <img src="images/causticnodes.png?raw=true" alt="Caustics nodes">
 
-## [Monkey Boom](monkeyboom.blend)
+## [Explosion](explosion.blend)
 
 Blender version of an Edge Split explosion technique I originally made in Houdini.
 
-[<img src="images/monkeyanim.gif?raw=true" width="480" alt="Monkey demo">](monkeyboom.blend)
+[<img src="images/explosionanim.gif?raw=true" width="480" alt="Explosion demo">](explosion.blend)
 
 ## [Forest](forest.blend)
 
