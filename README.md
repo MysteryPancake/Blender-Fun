@@ -29,3 +29,11 @@ When Raycast collides with the water surface, it reads the water's custom IOR at
 Blender version of an Edge Split explosion technique I originally made in Houdini.
 
 [<img src="images/monkeyanim.gif?raw=true" width="480" alt="Monkey demo">](monkeyboom.blend)
+
+## [Forest](forest.blend)
+
+**WARNING:** This is slow because "Realise Instances" was needed to apply the materials correctly.
+
+Requires Blender 3.1 or above due to "Vertex Neighbours" controlling the leaves shader.
+
+[<img src="images/forestanim.gif?raw=true" width="720" alt="Forest demo">](forest.blend)
