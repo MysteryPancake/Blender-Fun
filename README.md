@@ -33,7 +33,7 @@ Blender version of an Edge Split explosion technique I originally made in Houdin
 ## [Forest](forest.blend)
 
 **WARNING:** This is slow because "Realise Instances" was needed to apply the materials correctly.
-
+<br>
 Requires Blender 3.1 or above due to "Vertex Neighbours" controlling the leaves shader.
 
 [<img src="images/forestanim.gif?raw=true" width="720" alt="Forest demo">](forest.blend)
