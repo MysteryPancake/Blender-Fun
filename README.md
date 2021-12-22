@@ -26,7 +26,7 @@ When Raycast collides with the water surface, it reads the water's custom IOR at
 
 ## [Explosion](explosion.blend)
 
-I originally made this in Houdini, then translated the technique to Blender.
+I originally made this in Houdini, then translated it to Blender.
 <br>
 It uses Split Edges to separate each face, then multiplies the normal to move each face outwards.
 
