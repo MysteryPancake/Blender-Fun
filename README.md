@@ -4,7 +4,7 @@ Blender projects and node experiments.
 ## [Caustics (old)](caustics.blend)
 [Inspired by Evan Wallace](https://medium.com/@evanwallace/rendering-realtime-caustics-in-webgl-2a99a29a0b2c), I made caustics by distorting a mesh based on refraction.
 
-**This is the old version (using a physical light surface). This version doesn't stick to walls, and isn't very useful.**
+**This is the old version (using a physical light surface). It doesn't stick to walls, and isn't very useful.**
 
 [<img src="images/causticanim.gif?raw=true" width="480" alt="Caustics demo">](caustics.blend)
 
